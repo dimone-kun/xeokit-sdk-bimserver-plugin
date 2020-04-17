@@ -1,0 +1,21 @@
+{
+  "name": "@xeokit/xeokit-sdk-bimserver-plugin",
+  "version": "0.1.0",
+  "description": "Xeokit viewer plugin that loads models from a BIMServer (http://bimserver.org)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dimone-kun/xeokit-sdk-bimserver-plugin.git"
+  },
+  "keywords": ["xeokit", "xeolabs", "bimserver", "ifc", "bim"],
+  "author": "",
+  "license": "AGPL",
+  "peerDependencies": {
+    "@xeokit/xeokit-sdk": "^0.9.5"
+  },
+  "dependencies": {
+    "bimserverapi": "^0.0.167"
+  }
+}
